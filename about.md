@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Calgary based, with interests in tech, finance, aviation, and history
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ok, not limited to just that. I enjoy learning new things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[h@h](mailto:hriday@gmail.com)
