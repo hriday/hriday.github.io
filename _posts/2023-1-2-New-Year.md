@@ -9,7 +9,6 @@ In 2023, the resolutions are more or less the same. Read more, learn more and th
 
 Books I am currently reading:
 
-##
 * Thermae Romae : A fun manga from a decade ago that I got for Christmas. It's got some cool art.
 * The Pringes, Mangonkar : An out of print classic from one of my favourite authors.
 * The End of the World in Just the Beginneng; Zeihan : A new book from strategist and thinker, Peter Zeihan. I don't agree with everything he says, but I find myself in a dialogue with him as I read the book, so that's cool.
